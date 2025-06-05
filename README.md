@@ -11,17 +11,6 @@ Sign in with your Meta account.
 
 Set up your headset via the app.
 
-2. Connect Meta Quest to PC
-Plug the Link Cable into your PC and your headset.
-
-Put on the headset.
-
-You’ll be prompted to “Allow data access” – select Allow.
-
-When prompted to “Enable Oculus Link”, click Enable inside the headset.
-
-Your PC should now mirror to your headset via Oculus Link.
-
 Play Unity Build
 Build your game from Unity:
 
